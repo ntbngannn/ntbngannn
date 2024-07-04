@@ -7,6 +7,7 @@
 <a href="https://www.instagram.com/_chiecbungbat.on/"><img src="https://img.shields.io/badge/Instagram-8A3AB9?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 <a href="https://www.instagram.com/_chiecbungbat.on/"><img src="https://img.shields.io/badge/Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
 <a href="mailto:nguyentrabaongan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+        
 </p>
 
 🤗 Hi there! My name is Nguyen Tra Bao Ngan. I am currently a 4th-year student majoring in Computer Networks and Data Communications at the University of Information Technology, VNUHCM. I have a strong passion for the world of technology, particularly in the fields of DevOps, System Administration, and Front-end Development. I am always eager to learn new things and expand my skillset, and I am constantly seeking opportunities to challenge myself and grow as a programmer.
@@ -17,7 +18,9 @@ I am particularly interested in the intersection of software development and ope
 <a href="https://github.com/ntbngannn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ntbngannn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ntbngannn&layout=compact&theme=radical"/>
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntbngannn&theme=radical" width = 500><br/>
 </a>
+
 </p>
 <div id="user-content-toc", align="center">
   <ul align="center">
