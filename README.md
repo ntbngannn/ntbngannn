@@ -15,10 +15,10 @@
 I am particularly interested in the intersection of software development and operations, and I am fascinated by the ability of DevOps practices to streamline workflows and improve efficiency. I am also passionate about creating user-friendly and visually appealing front-end interfaces, and I enjoy the challenge of crafting code that is both functional and aesthetically pleasing. 🤗✌️
 
 <p align="center">
-<a href="https://github.com/ntbngannn">
+<a href="https://github.com/ntbngannn">         
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ntbngannn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ntbngannn&layout=compact&theme=radical"/>
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntbngannn&theme=radical" width = 500><br/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntbngannn&theme=radical" width = 500><br/>
 </a>
 
 </p>
