@@ -10,7 +10,7 @@
         
 </p>
 
-🤗 Hi there! My name is Nguyen Tra Bao Ngan. I am currently a 4th-year student majoring in Computer Networks and Data Communications at the University of Information Technology, VNUHCM. I have a strong passion for the world of technology, particularly in the fields of DevOps, System Administration, and Front-end Development. I am always eager to learn new things and expand my skillset, and I am constantly seeking opportunities to challenge myself and grow as a programmer.
+🤗 Hi there! My name is Nguyen Tra Bao Ngan. I am currently a 4th-year student majoring in Computer Networks and Data Communications at the University of Information Technology, VNUHCM. I have a strong passion for the world of technology, particularly in the fields of DevOps, System Administration, Embedded Software, and Front-end Development. I am always eager to learn new things and expand my skillset, and I am constantly seeking opportunities to challenge myself and grow as a programmer.
 
 I am particularly interested in the intersection of software development and operations, and I am fascinated by the ability of DevOps practices to streamline workflows and improve efficiency. I am also passionate about creating user-friendly and visually appealing front-end interfaces, and I enjoy the challenge of crafting code that is both functional and aesthetically pleasing. 🤗✌️
 
